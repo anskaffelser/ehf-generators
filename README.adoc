@@ -1,0 +1,20 @@
+= EHF Generators
+
+This is a collection of tools for generating EHF documents using Excel Macro-Enabled Workbooks.
+
+[cols="2,1,1",options="header"]
+|===
+
+| Generator
+| Version
+|
+
+| EHF Catalogue 1.0
+| 10-6_9_2
+| link:Catalogue/catalogue-norwegian.xlsm[Download]
+
+| EHF Pre-Award Catalogue 0.9
+|
+| link:PreAwardCatalogue/preaward-catalogue-norwegian.xlsm[Download]
+
+|===
